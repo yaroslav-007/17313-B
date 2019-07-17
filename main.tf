@@ -1,12 +1,12 @@
- terraform {
-   backend "remote" {
-     organization = "yaroslav-org"
+# terraform {
+#   backend "remote" {
+#     organization = "yaroslav-org"
 
-     workspaces {
-       name = "Workspace-B"
-     }
-   }
- }
+#     workspaces {
+#       name = "Workspace-B"
+#     }
+#   }
+# }
 
 
 
